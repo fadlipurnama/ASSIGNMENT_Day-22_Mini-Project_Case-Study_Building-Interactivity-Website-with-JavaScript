@@ -2,7 +2,7 @@
 
 **Nama:** Muhammad Fadli Purnama  
 **Batch:** FWD Batch 13  
-**Assignment:** Day 22
+**Last Commit:** e4ae7dce2e336d05bb7e2403e46f9f42eaaed2ba
 
 Mini project halaman detail produk Phase 1 dengan dua implementasi: satu menggunakan data hardcode dan satu mengambil data dari REST API lokal.
 
